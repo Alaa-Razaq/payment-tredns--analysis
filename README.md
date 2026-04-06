@@ -37,19 +37,22 @@ Financial institutions need to understand:
 ---
 
 ## 📁 Dataset
+
 **Source:** European Central Bank (ECB)
 
-**Raw Dara Files:**
-- Credit Transfers
-- E-money Payments
-- Total Payments
-- Card Payments
+Data available at:  
+https://www.ecb.europa.eu/stats/payment_statistics
 
-  
-**Final Dataset Includes:**
-- Year
-- Payment Type (Card, E-money)
-- Transaction Value
+Multiple datasets were combined and cleaned for analysis, including:
+- Card payments  
+- E-money transactions  
+- Credit transfers  
+- Total payments  
+
+### Final Dataset Includes:
+- Year  
+- Payment Type (Card, E-money)  
+- Transaction Value  
 
 ---
 
