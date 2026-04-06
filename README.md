@@ -6,9 +6,12 @@
 - [Business Problem](#business-problem)
 - [Dataset[(#dataset)
 - [Data Cleaning & Preparation](data-cleaning-&-preparation)
-- 
-- 
-- 
+- [Dashboard](#dashboard)
+- [Key Insights](#key-insights)
+- [Growth Analysis](#growth-analysis)
+- [Business Recommendations[(#business-recommendations)
+- [Tools Used](#tools Used)
+  
   
 ## 🔎 Executive Summary
 This project analyzes payment trends between traditional card payments and digital wallets (E-money), highlighting differences in scale and growth to assess potential future disruption in the payments industry.
@@ -31,12 +34,7 @@ Financial institutions need to understand:
 - E-money Payments
 - Total Payments
 - Card Payments
-- [Dashboard](#dashboard)
-- [Key Insights](#key-insights)
-- [Growth Analysis](#growth-analysis)
-- [Business Recommendations[(#business-recommendations)
-- [Tools Used](#tools Used)
-  
+
   
 **Final Dataset Includes:**
 - Year
