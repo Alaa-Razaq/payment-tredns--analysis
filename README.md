@@ -2,19 +2,29 @@
 
 ## Table of Contents
 
-- [Executive Summary](#executive-summary).
+- [Executive Summary](#executive-summary)
+- [Methodology](#methodology)
 - [Business Problem](#business-problem)
-- [Dataset[(#dataset)
-- [Data Cleaning & Preparation](data-cleaning-&-preparation)
+- [Dataset](#dataset)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Dashboard](#dashboard)
 - [Key Insights](#key-insights)
 - [Growth Analysis](#growth-analysis)
-- [Business Recommendations[(#business-recommendations)
-- [Tools Used](#tools Used)
+- [Business Recommendations](#business-recommendations)
+- [Tools Used](#tools-used)
   
   
 ## 🔎 Executive Summary
 This project analyzes payment trends between traditional card payments and digital wallets (E-money), highlighting differences in scale and growth to assess potential future disruption in the payments industry.
+
+---
+
+##  Methodology
+- Collected payment data from ECB datasets
+- Cleaned and aggregated yearly transaction values using Python (pandas)
+- Transformed data into long format for Tableau analysis
+- Created calculated fields (Growth %) for trend comparison
+- Built an interactive dashboard in Tableau
 
 ---
 
@@ -58,10 +68,10 @@ Financial institutions need to understand:
 ---
 
 ## 💡 Key Insights
-- Card payments are ~3,000× larger than E-money (2024)
-- E-money is growing faster than card payments
-- Card payments declined significantly in 2025
-- Digital wallets are growing, but not yet replacing cards
+- Card payments dominate transaction volume, remaining ~3,000x larger than e-money in 2024
+- E-money is experiencing faster growth, indicating increasing digital adoption
+- Card payment volume declined sharply in 2025, signaling potential volatility
+- Digital wallets are expanding but have not yet disrupted traditional card dominance
 
 ---
 
