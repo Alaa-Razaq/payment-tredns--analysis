@@ -58,8 +58,8 @@ Includes:
 ---
 
 ## 📊 Dashboard
-[View Tableau Dashboard]([PASTE-YOUR-LINK-HERE](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/PaymentTrendsAnalysis-CardvsDigitalWallet/Dashboard1)
-![dashboard.png]
+[View Tableau Dashboard](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/PaymentTrendsAnalysis-CardvsDigitalWallet/Dashboard1)
+![](dashboard.png)
 ---
 
 ## 💡 Key Insights
