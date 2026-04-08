@@ -67,7 +67,7 @@ Multiple datasets were combined and cleaned for analysis, including:
 
 ## 📊 Dashboard
 ![Dashboard](dashboard.png)
-
+[View Interactive Dashboard](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/PaymentTrendsAnalysis-CardvsDigitalWallet/Dashboard1)
 ---
 
 ## 💡 Key Insights
