@@ -59,6 +59,17 @@ Includes:
 
 ## 📊 Dashboard
 [View Tableau Dashboard](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/PaymentTrendsAnalysis-CardvsDigitalWallet/Dashboard1)
+
+## 📊 Dashboard
+
+📌 Note: Interactive dashboard link is not available. Screenshot shown represents the final Tableau dashboard.
+
+### 📌 Dashboard Overview
+
+This dashboard presents key insights from the dataset, including performance trends, category breakdowns, and key metrics used for business analysis.
+
+📌 Built using Tableau with interactive filters and visual analysis.
+
 ![](dashboard.png)
 - The dashboard visualizes payment trends over time, comparing growth patterns between card payments and digital wallets.
 ---
